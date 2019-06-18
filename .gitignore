@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+/ssm_aggregator/ssm_service/target
+/ssm_aggregator/ssm_domain/target
+/ssm_aggregator/ssm_mapper/target
+/ssm_aggregator/web/target
+/ssm_aggregator/ssm_domain/src/test
+/ssm_aggregator/ssm_mapper/src/test
+/ssm_aggregator/ssm_service/src/test
+/ssm_aggregator/web/src/test
